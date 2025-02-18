@@ -1,0 +1,9 @@
+jupyter
+boto3
+pandas
+matplotlib
+selenium
+beautifulsoup4
+sqlalchemy
+pymysql
+pyarrow
